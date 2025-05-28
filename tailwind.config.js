@@ -17,6 +17,19 @@ export default {
           light: '#67e8f9',
           dark: '#0891b2'
         },
+        background: {
+          DEFAULT: '#ffffff',
+          dark: '#0f172a'
+        },
+        foreground: {
+          DEFAULT: '#0f172a',
+          dark: '#f8fafc'
+        },
+        border: {
+          DEFAULT: '#e2e8f0',
+          dark: '#334155'
+        },
+
         accent: '#f59e0b',
         surface: {
           50: '#f8fafc',

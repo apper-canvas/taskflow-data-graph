@@ -4,11 +4,13 @@
 
 @layer base {
   * {
-    @apply border-border;
+    box-sizing: border-box;
   }
+
   
   body {
-    @apply bg-background text-foreground;
+    @apply bg-white dark:bg-surface-900 text-surface-900 dark:text-surface-100;
+
     font-feature-settings: "rlig" 1, "calt" 1;
     font-synthesis: none;
     text-rendering: optimizeLegibility;
