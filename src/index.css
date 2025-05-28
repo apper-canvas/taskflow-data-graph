@@ -165,5 +165,3 @@
 .task-dots-container {
   @apply flex flex-wrap gap-1 mt-1 justify-center;
 }
-
-}
