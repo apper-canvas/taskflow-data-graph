@@ -120,6 +120,8 @@
 
 .Toastify__toast--warning {
   @apply bg-amber-50 border-l-4 border-amber-500;
+}
+
 
 .Toastify__toast--info {
   @apply bg-blue-50 border-l-4 border-blue-500;
